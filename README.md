@@ -1,1 +1,1 @@
-# Minting-Tokens-and-NFTs
+# Metaplex Candy Machine Reference UI
